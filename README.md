@@ -7,7 +7,7 @@ Atualmente à procura de uma empresa para a Formação em Contexto de Trabalho (
 **Projetos em destaque**
 
 - [Controlo de Gastos](https://github.com/elisamanuel-on/controlo-de-gastos) - registo de despesas e receitas pessoais com autenticação de utilizadores, recuperação de conta por código, testes automáticos e deployment contínuo. FastAPI, JWT, SQLite, SQLAlchemy. ([demo](https://controlo-de-gastos.onrender.com))
-- [Delivery — Arquitetura Orientada a Eventos](https://github.com/elisamanuel-on/delivery-eventos) - simulação de um pipeline de entregas com barramento de eventos assíncrono e acompanhamento em tempo real via WebSocket. FastAPI, WebSocket, asyncio. ([demo](https://delivery-eventos.onrender.com))
+- [Delivery - Arquitetura Orientada a Eventos](https://github.com/elisamanuel-on/delivery-eventos) - simulação de um pipeline de entregas com barramento de eventos assíncrono e acompanhamento em tempo real via WebSocket. FastAPI, WebSocket, asyncio. ([demo](https://delivery-eventos.onrender.com))
 - [Portfólio completo](https://github.com/elisamanuel-on/HTML) - +20 projetos, de HTML/CSS/JavaScript a aplicações full-stack. ([site](https://elisamanuel-on.github.io/HTML/))
 
 **Stack**
